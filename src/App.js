@@ -1,11 +1,10 @@
 import React from 'react';
-import Welcome from './component/Welcome'
+import Button from './component/Button'
 
 function App() {
   return (
     <div>
-      <Welcome name="Sara"/>
-      <Welcome name="Edite"/>
+      <Button></Button>
     </div>
   );
 }
